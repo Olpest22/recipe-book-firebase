@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757116387137",
+    "project_id": "recipe-book-c3726",
+    "storage_bucket": "recipe-book-c3726.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757116387137:android:5894b91ee4cddedf666bc0",
+        "android_client_info": {
+          "package_name": "com.example.recipe_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5cyUSFiNtEENXWuEjAEvaiwnzqm_I1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
